@@ -1,6 +1,5 @@
 import React, {Component} from "react";
 import styles from "./Loader.module.css";
-import PropTypes from "prop-types";
 import { Circles } from "react-loader-spinner";
 
 class Loader extends Component {
